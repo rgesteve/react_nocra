@@ -1,1 +1,3 @@
-console.log("Basic webpack");
+window.onload = () => {
+    console.log("Basic webpack");
+}
