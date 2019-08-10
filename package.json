@@ -1,0 +1,19 @@
+{
+  "name": "react_nocra",
+  "version": "0.0.1",
+  "description": "Simple React application created and maintained without create-react-app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rgesteve/react_nocra.git"
+  },
+  "author": "R. G. Esteves",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rgesteve/react_nocra/issues"
+  },
+  "homepage": "https://github.com/rgesteve/react_nocra#readme"
+}
